@@ -1,0 +1,14 @@
+{
+"book": [
+{"Bookid":1,"BookName":"The Great Palace","Author":"Mr. DevA","Price":"11.25 AED"},
+{"Bookid":2,"BookName":"The Second Palace","Author":"Mr. DevB","Price":"12.25 AED"},
+{"Bookid":3,"BookName":"The Third Palace","Author":"Mr. DevC","Price":"13.25 AED"},
+{"Bookid":4,"BookName":"The Forth Palace","Author":"Mr. DevD","Price":"14.25 AED"},
+{"Bookid":5,"BookName":"The Fifth Palace","Author":"Mr. DevE","Price":"15.25 AED"},
+{"Bookid":6,"BookName":"The Sixth Palace","Author":"Mr. DevF","Price":"16.25 AED"},
+{"Bookid":7,"BookName":"The Seventh Palace","Author":"Mr. DevG","Price":"17.25 AED"},
+{"Bookid":8,"BookName":"The Eighth Palace","Author":"Mr. DevH","Price":"18.25 AED"},
+{"Bookid":9,"BookName":"The Ninth Palace","Author":"Mr. DevI","Price":"19.25 AED"},
+{"Bookid":10,"BookName":"The Tenth Palace","Author":"Mr. DevJ","Price":"20.25 AED"}
+]
+}
